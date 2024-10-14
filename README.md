@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning JS
+🌱 I’m currently learning JS <br>
 ⚡ Fun fact: The Great Pyramid of Giza, the only one of the Seven Wonders of the Ancient World still standing.
 <!--
 **TrDiTu/TrDiTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
