@@ -1,6 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning JS <br>
-📫 How to reach me: linktr.ee/daylatung
+📫 How to reach me: [Click Here!](linktr.ee/daylatung)
 <!--
 **TrDiTu/TrDiTu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
